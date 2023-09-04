@@ -11,10 +11,14 @@ There are a few ways to go into insert mode (I also am not including about
 another 10...)
 
 i: left side of cursor
+
+
 a: right side of cursor
-  ----I: 
-  A: -----           
+  What up!!----I: Heyoo
+  A: -----           Nothing much, thank you!
 o: insert new line below line and go into insert mode
+Let go!!!
+We are jumping around :)
 O: insert new line above line and go into insert mode
 
 lets play around
